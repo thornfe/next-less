@@ -1,0 +1,16 @@
+{
+  "name": "@thornfe/next-less",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/thornfe/next-less.git",
+  "author": "ThornWu <thornwu@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ecomfe/class-names-loader": "^2.0.0",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1"
+  },
+  "peerDependencies": {
+    "@thornfe/next-css": ">=0.0.1"
+  }
+}
